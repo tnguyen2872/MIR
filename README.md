@@ -1,1 +1,2 @@
 # MIR
+Simple programming language
